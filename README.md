@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Dafi Fatahillah
 
-<!--
-**mdafithl/mdafithl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m an **Economics graduate and Software Engineering enthusiast** 
+Currently focusing on **Full-Stack Web Development**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Professional Summary
+- 🎓 Bachelor’s Degree in Economics with a strong interest in **IT and financial systems**.  
+- 💻 Experienced in developing and maintaining web applications using **Laravel + Vue.js**, **MERN stack**, and **Sql/noSql**.  
+- 🧩 Able to collaborate in agile environments, handle debugging, and implement scalable backend structures. 
+
+---
+
+### 🧠 Core Skills
+- **Programming Languages:** PHP, JavaScript, Python, SQL  
+- **Frameworks & Libraries:** Laravel, Vue.js, React, Node.js, Express, NestJS  
+- **Databases:** MySQL, PostgreSQL, MongoDB  
+- **Tools:** Git, Postman, PM2, Docker (basic), DigitalOcean VPS  
+- **Other Skills:** Financial Analysis, Excel (Pivot, Formulas) 
+
+---
+
+
+### 📫 Connect with Me
+- 🌐 [LinkedIn](https://www.linkedin.com/in/muhammad-dafi-fatahillah-0325b0318)  
+- 💻 [GitHub](https://github.com/mdafithl)  
+
+---
+
+### 🧭 Personal Motto
+> “Bridging Economics and Software Engineering to create efficient, data-driven, and impactful solutions.”
+
+---
+
