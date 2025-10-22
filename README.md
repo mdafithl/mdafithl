@@ -28,8 +28,4 @@ Currently focusing on **Full-Stack Web Development**.
 
 ---
 
-### 🧭 Personal Motto
-> “Bridging Economics and Software Engineering to create efficient, data-driven, and impactful solutions.”
-
----
 
